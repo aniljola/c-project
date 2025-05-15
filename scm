@@ -1,2 +1,2 @@
 pool scm test file
-new changes
+test the changes
